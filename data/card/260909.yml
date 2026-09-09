@@ -7,7 +7,7 @@ about:
   latestVersion: "v15.8.23"
   latestRelease: "v15.8.23"
   latestPrerelease: "15.1.36"
-  collectedAt: 2026-09-09T05:35:47Z
+  collectedAt: 2026-09-09T19:43:10Z
 timeline:
   created: 2009-01-15
   lastCommit: 2026-09-04
@@ -92,7 +92,7 @@ total:
   commit: 34388
 ---
 path: /home/runner/.x-repo/github.com/chef/chef
-collectedAt: 2026-09-09T05:36:18Z
+collectedAt: 2026-09-09T19:43:55Z
 loc:
   Ruby:
     code: 184033
