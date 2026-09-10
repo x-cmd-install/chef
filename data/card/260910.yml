@@ -7,7 +7,7 @@ about:
   latestVersion: "v15.8.23"
   latestRelease: "v15.8.23"
   latestPrerelease: "15.1.36"
-  collectedAt: 2026-09-10T17:10:46Z
+  collectedAt: 2026-09-10T23:55:49Z
 timeline:
   created: 2009-01-15
   lastCommit: 2026-09-10
@@ -20,8 +20,8 @@ popularity:
   fork: 2520
   release: 4
   contributor: 677
-  pullRequest: 12495
-  issue: 3790
+  pullRequest: 12496
+  issue: 3791
 language:
   Ruby: 9950633
   Shell: 86247
@@ -41,7 +41,7 @@ recent:
     mergedPR: 20
     openPR: 53
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 26
   last60d:
     since: 2026-07-12
@@ -49,7 +49,7 @@ recent:
     mergedPR: 54
     openPR: 66
     closedIssue: 0
-    openIssue: 6
+    openIssue: 7
     commit: 80
   last90d:
     since: 2026-06-12
@@ -57,7 +57,7 @@ recent:
     mergedPR: 112
     openPR: 73
     closedIssue: 0
-    openIssue: 7
+    openIssue: 8
     commit: 150
   last180d:
     since: 2026-03-14
@@ -65,7 +65,7 @@ recent:
     mergedPR: 354
     openPR: 77
     closedIssue: 3
-    openIssue: 9
+    openIssue: 10
     commit: 475
   last360d:
     since: 2025-09-15
@@ -73,7 +73,7 @@ recent:
     mergedPR: 593
     openPR: 86
     closedIssue: 6
-    openIssue: 20
+    openIssue: 21
     commit: 783
   last720d:
     since: 2024-09-20
@@ -81,18 +81,18 @@ recent:
     mergedPR: 904
     openPR: 86
     closedIssue: 20
-    openIssue: 45
+    openIssue: 46
     commit: 1192
 total:
   release: 4
   mergedPR: 8233
   openPR: 86
   closedIssue: 3467
-  openIssue: 323
+  openIssue: 324
   commit: 34390
 ---
 path: /home/runner/.x-repo/github.com/chef/chef
-collectedAt: 2026-09-10T17:11:36Z
+collectedAt: 2026-09-10T23:56:27Z
 loc:
   Ruby:
     code: 184074
