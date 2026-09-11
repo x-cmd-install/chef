@@ -14,7 +14,7 @@ x install chef
 
 ## Code insight
 
-Total: **190,957** lines of code across **1878** files in the top 5 languages.
+Total: **190,958** lines of code across **1878** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.8.23` (2020-02-20)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8233 · **Open PRs**: 86 · **Closed issues**: 3467 · **Open issues**: 324 · **Commits**: 34390
+- **Releases**: 4 · **Merged PRs**: 8235 · **Open PRs**: 86 · **Closed issues**: 3467 · **Open issues**: 324 · **Commits**: 34394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 20 | 51 | 0 | 4 | 26 |
-| last60d | 2026-07-13 | 0 | 54 | 66 | 0 | 7 | 80 |
-| 90d | 2026-06-13 | 0 | 111 | 73 | 0 | 8 | 150 |
-| last180d | 2026-03-15 | 0 | 354 | 77 | 3 | 10 | 475 |
-| 360d | 2025-09-16 | 0 | 591 | 86 | 6 | 20 | 783 |
-| last720d | 2024-09-21 | 0 | 904 | 86 | 20 | 46 | 1192 |
+| 30d | 2026-08-12 | 0 | 22 | 51 | 0 | 4 | 30 |
+| last60d | 2026-07-13 | 0 | 56 | 66 | 0 | 7 | 84 |
+| 90d | 2026-06-13 | 0 | 113 | 73 | 0 | 8 | 154 |
+| last180d | 2026-03-15 | 0 | 356 | 77 | 3 | 10 | 479 |
+| 360d | 2025-09-16 | 0 | 593 | 86 | 6 | 20 | 787 |
+| last720d | 2024-09-21 | 0 | 906 | 86 | 20 | 46 | 1196 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:33:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:21:02Z._
