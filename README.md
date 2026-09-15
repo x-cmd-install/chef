@@ -30,8 +30,8 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,236 · **Forks**: 2,520 · **Open issues**: 3,791 · **Contributors**: 677
+- **Stars**: 8,236 · **Forks**: 2,519 · **Open issues**: 3,791 · **Contributors**: 677
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8235 · **Open PRs**: 85 · **Closed issues**: 3467 · **Open issues**: 324 · **Commits**: 34394
+- **Releases**: 4 · **Merged PRs**: 8235 · **Open PRs**: 88 · **Closed issues**: 3467 · **Open issues**: 324 · **Commits**: 34394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 21 | 42 | 0 | 3 | 29 |
-| last60d | 2026-07-16 | 0 | 48 | 64 | 0 | 7 | 72 |
-| 90d | 2026-06-16 | 0 | 108 | 72 | 0 | 7 | 139 |
-| last180d | 2026-03-18 | 0 | 352 | 76 | 2 | 10 | 475 |
-| 360d | 2025-09-19 | 0 | 589 | 85 | 6 | 20 | 778 |
-| last720d | 2024-09-24 | 0 | 904 | 85 | 20 | 45 | 1194 |
+| 30d | 2026-08-16 | 0 | 21 | 47 | 0 | 2 | 29 |
+| last60d | 2026-07-17 | 0 | 47 | 69 | 0 | 7 | 72 |
+| 90d | 2026-06-17 | 0 | 106 | 75 | 0 | 7 | 139 |
+| last180d | 2026-03-19 | 0 | 351 | 79 | 2 | 9 | 475 |
+| 360d | 2025-09-20 | 0 | 589 | 88 | 6 | 20 | 778 |
+| last720d | 2024-09-25 | 0 | 904 | 88 | 20 | 45 | 1192 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:49:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:51:50Z._
