@@ -4,7 +4,7 @@
 
 Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 
-![chef](https://repo.x-cmd.io/chef.svg?lang=zh)
+[![x-cmd/install — chef Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chef.svg?lang=zh)](https://x-cmd.com/install/chef)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install chef
 
 ## 流行度
 
-- **Star**: 8,238 · **Fork**: 2,519 · **开放 issue**: 3,792 · **贡献者**: 677
+- **Star**: 8,241 · **Fork**: 2,520 · **开放 issue**: 3,792 · **贡献者**: 677
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install chef
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 24 | 34 | 0 | 2 | 47 |
-| last60d | 2026-07-20 | 0 | 59 | 67 | 0 | 8 | 90 |
-| 90d | 2026-06-20 | 0 | 107 | 76 | 0 | 8 | 157 |
-| last180d | 2026-03-22 | 0 | 362 | 80 | 2 | 10 | 493 |
-| 360d | 2025-09-23 | 0 | 594 | 89 | 6 | 21 | 796 |
-| last720d | 2024-09-28 | 0 | 914 | 89 | 20 | 45 | 1209 |
+| 30d | 2026-08-21 | 0 | 23 | 33 | 0 | 2 | 33 |
+| last60d | 2026-07-22 | 0 | 49 | 65 | 0 | 8 | 67 |
+| 90d | 2026-06-22 | 0 | 103 | 76 | 0 | 8 | 143 |
+| last180d | 2026-03-24 | 0 | 357 | 80 | 2 | 10 | 453 |
+| 360d | 2025-09-25 | 0 | 589 | 89 | 6 | 21 | 779 |
+| last720d | 2024-09-30 | 0 | 913 | 89 | 20 | 45 | 1209 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ chef 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:50:32Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:50:33Z._

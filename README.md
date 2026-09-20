@@ -4,7 +4,7 @@
 
 Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 
-![chef](https://repo.x-cmd.io/chef.svg)
+[![x-cmd/install — chef Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chef.svg)](https://x-cmd.com/install/chef)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,238 · **Forks**: 2,519 · **Open issues**: 3,792 · **Contributors**: 677
+- **Stars**: 8,241 · **Forks**: 2,520 · **Open issues**: 3,792 · **Contributors**: 677
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 24 | 34 | 0 | 2 | 47 |
-| last60d | 2026-07-20 | 0 | 59 | 67 | 0 | 8 | 90 |
-| 90d | 2026-06-20 | 0 | 107 | 76 | 0 | 8 | 157 |
-| last180d | 2026-03-22 | 0 | 362 | 80 | 2 | 10 | 493 |
-| 360d | 2025-09-23 | 0 | 594 | 89 | 6 | 21 | 796 |
-| last720d | 2024-09-28 | 0 | 914 | 89 | 20 | 45 | 1209 |
+| 30d | 2026-08-21 | 0 | 23 | 33 | 0 | 2 | 33 |
+| last60d | 2026-07-22 | 0 | 49 | 65 | 0 | 8 | 67 |
+| 90d | 2026-06-22 | 0 | 103 | 76 | 0 | 8 | 143 |
+| last180d | 2026-03-24 | 0 | 357 | 80 | 2 | 10 | 453 |
+| 360d | 2025-09-25 | 0 | 589 | 89 | 6 | 21 | 779 |
+| last720d | 2024-09-30 | 0 | 913 | 89 | 20 | 45 | 1209 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:50:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:32Z._
