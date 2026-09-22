@@ -30,9 +30,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.8.23` (2020-02-20)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8247 · **Open PRs**: 89 · **Closed issues**: 3470 · **Open issues**: 322 · **Commits**: 34411
+- **Releases**: 4 · **Merged PRs**: 8249 · **Open PRs**: 88 · **Closed issues**: 3470 · **Open issues**: 322 · **Commits**: 34415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 23 | 33 | 0 | 2 | 33 |
-| last60d | 2026-07-23 | 0 | 47 | 64 | 0 | 8 | 67 |
-| 90d | 2026-06-23 | 0 | 102 | 76 | 0 | 8 | 143 |
-| last180d | 2026-03-25 | 0 | 352 | 80 | 2 | 10 | 453 |
-| 360d | 2025-09-26 | 0 | 587 | 89 | 6 | 20 | 779 |
-| last720d | 2024-10-01 | 0 | 907 | 89 | 20 | 44 | 1209 |
+| 30d | 2026-08-23 | 0 | 25 | 32 | 0 | 2 | 37 |
+| last60d | 2026-07-24 | 0 | 47 | 63 | 0 | 8 | 71 |
+| 90d | 2026-06-24 | 0 | 103 | 75 | 0 | 8 | 147 |
+| last180d | 2026-03-26 | 0 | 350 | 79 | 2 | 10 | 457 |
+| 360d | 2025-09-27 | 0 | 589 | 88 | 6 | 20 | 783 |
+| last720d | 2024-10-02 | 0 | 909 | 88 | 20 | 44 | 1204 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:56:30Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:49:51Z._
