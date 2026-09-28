@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,247 · **Forks**: 2,519 · **Open issues**: 3,792 · **Contributors**: 678
+- **Stars**: 8,248 · **Forks**: 2,519 · **Open issues**: 3,792 · **Contributors**: 678
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 20 | 24 | 0 | 2 | 38 |
-| last60d | 2026-07-29 | 0 | 48 | 62 | 0 | 7 | 62 |
-| 90d | 2026-06-29 | 0 | 97 | 74 | 0 | 8 | 137 |
-| last180d | 2026-03-31 | 0 | 336 | 81 | 2 | 10 | 369 |
-| 360d | 2025-10-02 | 0 | 586 | 90 | 6 | 19 | 785 |
-| last720d | 2024-10-07 | 0 | 912 | 90 | 20 | 43 | 1210 |
+| 30d | 2026-08-29 | 0 | 20 | 24 | 0 | 2 | 38 |
+| last60d | 2026-07-30 | 0 | 45 | 61 | 0 | 7 | 62 |
+| 90d | 2026-06-30 | 0 | 93 | 72 | 0 | 8 | 137 |
+| last180d | 2026-04-01 | 0 | 332 | 81 | 2 | 10 | 369 |
+| 360d | 2025-10-03 | 0 | 581 | 90 | 6 | 19 | 785 |
+| last720d | 2024-10-08 | 0 | 910 | 90 | 20 | 43 | 1209 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:01:24Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:07:34Z._
