@@ -26,13 +26,13 @@ Total: **191,117** lines of code across **1878** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3 / 10**
+Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,249 · **Forks**: 2,519 · **Open issues**: 3,792 · **Contributors**: 678
+- **Stars**: 8,248 · **Forks**: 2,518 · **Open issues**: 3,792 · **Contributors**: 678
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8254 · **Open PRs**: 98 · **Closed issues**: 3470 · **Open issues**: 322 · **Commits**: 34421
+- **Releases**: 4 · **Merged PRs**: 8254 · **Open PRs**: 99 · **Closed issues**: 3470 · **Open issues**: 322 · **Commits**: 34421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 20 | 32 | 0 | 2 | 38 |
-| last60d | 2026-07-31 | 0 | 44 | 69 | 0 | 7 | 62 |
-| 90d | 2026-07-01 | 0 | 93 | 80 | 0 | 8 | 137 |
-| last180d | 2026-04-02 | 0 | 322 | 89 | 2 | 10 | 369 |
-| 360d | 2025-10-04 | 0 | 581 | 98 | 6 | 19 | 785 |
-| last720d | 2024-10-09 | 0 | 908 | 98 | 20 | 43 | 1205 |
+| 30d | 2026-08-31 | 0 | 19 | 31 | 0 | 2 | 38 |
+| last60d | 2026-08-01 | 0 | 44 | 70 | 0 | 7 | 62 |
+| 90d | 2026-07-02 | 0 | 92 | 81 | 0 | 8 | 137 |
+| last180d | 2026-04-03 | 0 | 299 | 90 | 1 | 10 | 369 |
+| 360d | 2025-10-05 | 0 | 581 | 99 | 6 | 19 | 785 |
+| last720d | 2024-10-10 | 0 | 907 | 99 | 20 | 43 | 1200 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:37:45Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:18:15Z._
