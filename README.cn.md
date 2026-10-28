@@ -30,8 +30,8 @@ x install chef
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install chef
 
 ## 流行度
 
-- **Star**: 8,260 · **Fork**: 2,519 · **开放 issue**: 3,794 · **贡献者**: 678
+- **Star**: 8,258 · **Fork**: 2,520 · **开放 issue**: 3,794 · **贡献者**: 678
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 8273 · **开放 PR**: 104 · **已关闭 issue**: 3471 · **开放 issue**: 323 · **提交数**: 34452
+- **发布数**: 4 · **已合并 PR**: 8275 · **开放 PR**: 104 · **已关闭 issue**: 3471 · **开放 issue**: 323 · **提交数**: 34452
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 17 | 25 | 0 | 1 | 28 |
-| last60d | 2026-08-28 | 0 | 38 | 42 | 0 | 3 | 72 |
-| 90d | 2026-07-29 | 0 | 67 | 78 | 0 | 8 | 95 |
-| last180d | 2026-04-30 | 0 | 206 | 93 | 2 | 11 | 281 |
-| 360d | 2025-11-01 | 0 | 559 | 102 | 5 | 18 | 781 |
-| last720d | 2024-11-06 | 0 | 903 | 104 | 20 | 41 | 1198 |
+| 30d | 2026-09-28 | 0 | 16 | 24 | 0 | 1 | 28 |
+| last60d | 2026-08-29 | 0 | 40 | 42 | 0 | 3 | 72 |
+| 90d | 2026-07-30 | 0 | 66 | 77 | 0 | 8 | 95 |
+| last180d | 2026-05-01 | 0 | 207 | 93 | 2 | 11 | 281 |
+| 360d | 2025-11-02 | 0 | 561 | 102 | 5 | 18 | 781 |
+| last720d | 2024-11-07 | 0 | 904 | 104 | 20 | 41 | 1194 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ chef 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:43:57Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:27:00Z._
