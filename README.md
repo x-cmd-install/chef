@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 18 | 21 | 0 | 1 | 41 |
-| last60d | 2026-09-01 | 0 | 46 | 38 | 1 | 2 | 85 |
-| 90d | 2026-08-02 | 0 | 72 | 74 | 1 | 7 | 108 |
-| last180d | 2026-05-04 | 0 | 214 | 90 | 3 | 10 | 294 |
-| 360d | 2025-11-05 | 0 | 562 | 99 | 6 | 16 | 794 |
-| last720d | 2024-11-10 | 0 | 910 | 101 | 21 | 40 | 1196 |
+| 30d | 2026-10-02 | 0 | 18 | 21 | 0 | 1 | 35 |
+| last60d | 2026-09-02 | 0 | 45 | 38 | 1 | 2 | 77 |
+| 90d | 2026-08-03 | 0 | 72 | 73 | 1 | 7 | 104 |
+| last180d | 2026-05-05 | 0 | 212 | 90 | 3 | 10 | 286 |
+| 360d | 2025-11-06 | 0 | 561 | 99 | 6 | 16 | 764 |
+| last720d | 2024-11-11 | 0 | 910 | 101 | 21 | 40 | 1196 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:22:06Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:46:39Z._
