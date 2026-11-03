@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8282 · **Open PRs**: 101 · **Closed issues**: 3472 · **Open issues**: 322 · **Commits**: 34463
+- **Releases**: 4 · **Merged PRs**: 8282 · **Open PRs**: 105 · **Closed issues**: 3472 · **Open issues**: 322 · **Commits**: 34463
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 18 | 21 | 0 | 1 | 35 |
-| last60d | 2026-09-03 | 0 | 44 | 37 | 1 | 2 | 77 |
-| 90d | 2026-08-04 | 0 | 71 | 73 | 1 | 7 | 104 |
-| last180d | 2026-05-06 | 0 | 208 | 90 | 2 | 10 | 286 |
-| 360d | 2025-11-07 | 0 | 557 | 99 | 6 | 16 | 764 |
-| last720d | 2024-11-12 | 0 | 909 | 101 | 21 | 40 | 1196 |
+| 30d | 2026-10-04 | 0 | 18 | 26 | 0 | 1 | 35 |
+| last60d | 2026-09-04 | 0 | 43 | 42 | 1 | 2 | 77 |
+| 90d | 2026-08-05 | 0 | 70 | 77 | 1 | 7 | 104 |
+| last180d | 2026-05-07 | 0 | 208 | 94 | 2 | 10 | 286 |
+| 360d | 2025-11-08 | 0 | 557 | 103 | 6 | 16 | 764 |
+| last720d | 2024-11-13 | 0 | 909 | 105 | 21 | 40 | 1195 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:44:57Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:31:56Z._
