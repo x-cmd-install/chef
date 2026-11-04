@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.8.23` (2020-02-20)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 8,259 · **Forks**: 2,521 · **Open issues**: 3,794 · **Contributors**: 677
+- **Stars**: 8,258 · **Forks**: 2,521 · **Open issues**: 3,794 · **Contributors**: 677
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8282 · **Open PRs**: 105 · **Closed issues**: 3472 · **Open issues**: 322 · **Commits**: 34463
+- **Releases**: 4 · **Merged PRs**: 8286 · **Open PRs**: 103 · **Closed issues**: 3472 · **Open issues**: 322 · **Commits**: 34467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 18 | 26 | 0 | 1 | 35 |
-| last60d | 2026-09-04 | 0 | 43 | 42 | 1 | 2 | 77 |
-| 90d | 2026-08-05 | 0 | 70 | 77 | 1 | 7 | 104 |
-| last180d | 2026-05-07 | 0 | 208 | 94 | 2 | 10 | 286 |
-| 360d | 2025-11-08 | 0 | 557 | 103 | 6 | 16 | 764 |
-| last720d | 2024-11-13 | 0 | 909 | 105 | 21 | 40 | 1195 |
+| 30d | 2026-10-05 | 0 | 20 | 24 | 0 | 1 | 39 |
+| last60d | 2026-09-05 | 0 | 47 | 40 | 1 | 2 | 81 |
+| 90d | 2026-08-06 | 0 | 74 | 75 | 1 | 6 | 108 |
+| last180d | 2026-05-08 | 0 | 209 | 92 | 2 | 10 | 290 |
+| 360d | 2025-11-09 | 0 | 561 | 101 | 6 | 16 | 768 |
+| last720d | 2024-11-14 | 0 | 913 | 103 | 21 | 39 | 1199 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:31:56Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:03:29Z._
