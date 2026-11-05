@@ -14,11 +14,11 @@ x install chef
 
 ## Code insight
 
-Total: **190,428** lines of code across **1882** files in the top 5 languages.
+Total: **190,525** lines of code across **1882** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 185,203 | 46,095 | 38,945 | 1804 |
+| Ruby | 185,300 | 46,104 | 38,954 | 1804 |
 | RubyHtml | 1,099 | 0 | 83 | 36 |
 | Sh | 857 | 167 | 185 | 14 |
 | Xml | 694 | 0 | 0 | 7 |
@@ -26,13 +26,13 @@ Total: **190,428** lines of code across **1882** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 12/26 approved changesets -- score normalized to 4
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.8.23` (2020-02-20)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 8,258 · **Forks**: 2,521 · **Open issues**: 3,794 · **Contributors**: 677
+- **Stars**: 8,259 · **Forks**: 2,521 · **Open issues**: 3,794 · **Contributors**: 677
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8286 · **Open PRs**: 103 · **Closed issues**: 3472 · **Open issues**: 322 · **Commits**: 34467
+- **Releases**: 4 · **Merged PRs**: 8291 · **Open PRs**: 95 · **Closed issues**: 3472 · **Open issues**: 322 · **Commits**: 34473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 20 | 24 | 0 | 1 | 39 |
-| last60d | 2026-09-05 | 0 | 47 | 40 | 1 | 2 | 81 |
-| 90d | 2026-08-06 | 0 | 74 | 75 | 1 | 6 | 108 |
-| last180d | 2026-05-08 | 0 | 209 | 92 | 2 | 10 | 290 |
-| 360d | 2025-11-09 | 0 | 561 | 101 | 6 | 16 | 768 |
-| last720d | 2024-11-14 | 0 | 913 | 103 | 21 | 39 | 1199 |
+| 30d | 2026-10-06 | 0 | 23 | 18 | 0 | 1 | 44 |
+| last60d | 2026-09-06 | 0 | 52 | 33 | 1 | 2 | 86 |
+| 90d | 2026-08-07 | 0 | 79 | 68 | 1 | 6 | 113 |
+| last180d | 2026-05-09 | 0 | 214 | 84 | 2 | 10 | 295 |
+| 360d | 2025-11-10 | 0 | 565 | 93 | 6 | 16 | 773 |
+| last720d | 2024-11-15 | 0 | 917 | 95 | 21 | 39 | 1205 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:03:29Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:30:42Z._
