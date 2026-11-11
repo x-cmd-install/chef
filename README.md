@@ -30,7 +30,7 @@ Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 12/26 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 12/25 approved changesets -- score normalized to 4
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.8.23` (2020-02-20)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 8,262 · **Forks**: 2,522 · **Open issues**: 3,796 · **Contributors**: 677
+- **Stars**: 8,263 · **Forks**: 2,522 · **Open issues**: 3,796 · **Contributors**: 677
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 8296 · **Open PRs**: 100 · **Closed issues**: 3472 · **Open issues**: 324 · **Commits**: 34481
+- **Releases**: 4 · **Merged PRs**: 8303 · **Open PRs**: 101 · **Closed issues**: 3472 · **Open issues**: 324 · **Commits**: 34485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 26 | 21 | 0 | 3 | 41 |
-| last60d | 2026-09-11 | 0 | 53 | 37 | 1 | 3 | 82 |
-| 90d | 2026-08-12 | 0 | 82 | 71 | 1 | 7 | 122 |
-| last180d | 2026-05-14 | 0 | 211 | 89 | 2 | 12 | 281 |
-| 360d | 2025-11-15 | 0 | 565 | 97 | 6 | 17 | 766 |
-| last720d | 2024-11-20 | 0 | 916 | 100 | 21 | 40 | 1211 |
+| 30d | 2026-10-12 | 0 | 31 | 24 | 0 | 3 | 46 |
+| last60d | 2026-09-12 | 0 | 60 | 40 | 1 | 3 | 87 |
+| 90d | 2026-08-13 | 0 | 89 | 72 | 1 | 6 | 127 |
+| last180d | 2026-05-15 | 0 | 212 | 90 | 2 | 12 | 286 |
+| 360d | 2025-11-16 | 0 | 572 | 98 | 6 | 17 | 771 |
+| last720d | 2024-11-21 | 0 | 919 | 101 | 21 | 40 | 1209 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for chef lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:12:42Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:53:19Z._
