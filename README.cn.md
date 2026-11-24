@@ -26,13 +26,13 @@ x install chef
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.4 / 10**
+总评分: **2.8 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 12/25 approved changesets -- score normalized to 4
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install chef
 
 ## 流行度
 
-- **Star**: 8,267 · **Fork**: 2,520 · **开放 issue**: 3,797 · **贡献者**: 678
+- **Star**: 8,270 · **Fork**: 2,520 · **开放 issue**: 3,797 · **贡献者**: 678
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 8365 · **开放 PR**: 62 · **已关闭 issue**: 3475 · **开放 issue**: 322 · **提交数**: 34546
+- **发布数**: 4 · **已合并 PR**: 8367 · **开放 PR**: 68 · **已关闭 issue**: 3475 · **开放 issue**: 322 · **提交数**: 34546
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 56 | 19 | 0 | 3 | 98 |
-| last60d | 2026-09-24 | 0 | 89 | 23 | 0 | 4 | 142 |
-| 90d | 2026-08-25 | 0 | 123 | 34 | 1 | 5 | 185 |
-| last180d | 2026-05-27 | 0 | 258 | 59 | 2 | 13 | 336 |
-| 360d | 2025-11-28 | 0 | 611 | 61 | 6 | 16 | 826 |
-| last720d | 2024-12-03 | 0 | 972 | 62 | 21 | 39 | 1256 |
+| 30d | 2026-10-25 | 0 | 58 | 26 | 0 | 3 | 98 |
+| last60d | 2026-09-25 | 0 | 91 | 30 | 0 | 4 | 142 |
+| 90d | 2026-08-26 | 0 | 124 | 41 | 1 | 5 | 185 |
+| last180d | 2026-05-28 | 0 | 257 | 65 | 2 | 13 | 336 |
+| 360d | 2025-11-29 | 0 | 613 | 67 | 6 | 16 | 826 |
+| last720d | 2024-12-04 | 0 | 972 | 68 | 21 | 39 | 1254 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ chef 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:19:41Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:11:10Z._
